@@ -1,6 +1,7 @@
 # chezz
 basic chess game
-#note
+## note
+
 Moving square is indicated as in normal chess,for example "e2" indicates king pawn sqaure at the beginning of the game
 
   some chess rules are not impemented like-
