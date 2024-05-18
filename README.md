@@ -1,5 +1,5 @@
 # chezz
-basic chess game
+Chezz Nights
 
 ## Play Guide
 
